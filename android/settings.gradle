@@ -1,0 +1,3 @@
+rootProject.name = 'MoviesRedux'
+
+include ':app'
